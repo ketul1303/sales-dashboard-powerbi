@@ -1,3 +1,14 @@
+**BlinkIT Sales & Operations Dashboard (Power BI)**
+This project presents an end-to-end data analysis and visualization solution built using Power BI, based on BlinkIT grocery sales data. The dashboard provides actionable insights into sales performance, product demand, and operational efficiency.
+
+**Objective**
+To analyze grocery sales data and derive insights that support data-driven decision-making in demand planning and business operations.
+
+**Project Files**
+BlinkIT.pbix → Interactive Power BI dashboard
+BlinkIT Grocery Data.csv → Raw dataset
+README.md → Project documentation
+
 **KPI’s Requirements**
 1. Total Sales: The overall revenue generated from all items sold.
 2. Average Sales: The average revenue per sale.
